@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joseph Clay ===================================================================================================================================  Full Stack Developer --------------------  Currently Attending Generation USA Full Stack Developer Boot Camp  * 🌍  I'm based in Houston Texas * 🧠  I'm learning JavaScript
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joseph Clay ===================================================================================================================================  Full Stack Developer --------------------  Currently Attending Generation USA Full Stack Developer Boot Camp  * 🌍  I'm based in Houston Texas * 🧠  I'm learning JavaScript
 
 ### Skills  
 
